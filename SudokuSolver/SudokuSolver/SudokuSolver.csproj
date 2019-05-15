@@ -53,6 +53,7 @@
       <DependentUpon>Board.cs</DependentUpon>
     </Compile>
     <Compile Include="Cell.cs" />
+    <Compile Include="ErrorChecking.cs" />
     <Compile Include="Logic.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
